@@ -5,7 +5,7 @@
 # Product List
 
 ### Description:
-This project is a film search website designed to allow users to easily search for and discover information about various films. The website provides a user-friendly interface where users can input search queries and receive relevant results about movies.
+This project serves as a good starting point for developers who are learning React or looking to build a simple product listing application. It demonstrates basic React concepts such as component composition, state management, and handling user interactions.
 
 
 ### Features:
