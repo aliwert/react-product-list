@@ -4,6 +4,8 @@
 
 # Product List
 
+![product-list gif](https://github.com/aliwert/react-product-list/assets/154356044/044c6f2b-953e-46cb-afbf-ea8ed83034e9)
+
 ### Description:
 This project serves as a good starting point for developers who are learning React or looking to build a simple product listing application. It demonstrates basic React concepts such as component composition, state management, and handling user interactions.
 
